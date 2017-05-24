@@ -1,4 +1,4 @@
-FROM resin/armv7hf-debian:jessie
+FROM amtypaldos/opensuse-arm:42.2
 
 ENV QEMU_EXECVE 1
 
