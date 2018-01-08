@@ -1,4 +1,4 @@
-FROM amtypaldos/debian:jessie
+FROM debian:jessie
 
 ENV QEMU_EXECVE 1
 
